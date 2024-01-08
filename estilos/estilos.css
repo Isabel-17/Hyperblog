@@ -1,11 +1,10 @@
 body 
 {
-    color: deeppink;
+    color: pink;
     text-align: left;
     font-family: "Arial";
     font-size: 20px;
     margin: 0;
- 
     padding: 0;
 }
 
@@ -38,6 +37,7 @@ body
     border: 1px solid #333;
     margin: 0 auto;
     padding-right: 16%;
+    box-shadow: 0px 5px 20px 0px rgb(0, 0, 0, 0.5);
 }
 #container h1
 {
