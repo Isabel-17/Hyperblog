@@ -66,5 +66,6 @@ body
 }
 
 #post{
-    margin: 46px;
+    position: relative;
+    top: 20px;
 }
