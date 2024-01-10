@@ -6,4 +6,4 @@ Un blog increible para el curso de Git y Github de Platzi
 Ojala realmente consiga el triple de mi salario con este curso
 
 
-NO es un ** CHISTE** odio aquí y ojala la Isabel del futuro no lo haga
+NO es un **CHISTE** odio aquí y ojala la Isabel del futuro no lo haga
