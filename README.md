@@ -4,3 +4,4 @@
 
 Este es un proyecto para el curso de Git y Github de Platzi, no ha estado tan mal, si no contamos los 4 días que he llorado hasta dormir, espero sirvad de algo en unos meses
 
+**Esto lo hizo la maravillosa de Isa** 
