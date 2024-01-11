@@ -6,3 +6,4 @@ Este es un proyecto para el curso de Git y Github de Platzi, no ha estado tan ma
 
 **Creador la maravillosa de Isa**
 **Incluye ejemplos em linux porque solo LINUX**
+**NO está disponible para nadie mas, no sean sapos**
